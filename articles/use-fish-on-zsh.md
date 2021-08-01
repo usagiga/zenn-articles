@@ -3,7 +3,7 @@ title: "zsh からおおまかに設定を引き継いでターミナルで fish
 emoji: "🐟"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["fish"]
-published: false
+published: true
 ---
 
 [fish shell](https://fishshell.com/) が便利らしいと聞いたし使ってみたいけど、
