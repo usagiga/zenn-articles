@@ -4,6 +4,6 @@
   "description": "",
   "author": "usagiga",
   "dependencies": {
-    "zenn-cli": "^0.1.79"
+    "zenn-cli": "^0.1.141"
   }
 }
